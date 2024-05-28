@@ -1,0 +1,22 @@
+header{
+    background: blueviolet;
+    
+
+}
+main{
+    height: 800px;
+    border: 1px dashed sienna;
+}
+footer{
+    background: black;
+    height: 150PX;
+}
+
+.img-404{
+    justify-content: center;
+    margin-top: 70px;
+    margin-left: 250px;
+    border-radius: 20px;
+    position: absolute;
+    z-index: 1000px;
+}
